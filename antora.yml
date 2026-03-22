@@ -1,0 +1,22 @@
+name: vanilla
+title: The Vanilla
+start_page: 01-introduction:index.adoc
+version: ~
+asciidoc:
+  attributes:
+    page-toclevels: 3
+
+nav:
+  - modules/01-introduction/nav.adoc
+  - modules/02-constraints/nav.adoc
+  - modules/03-context/nav.adoc
+  - modules/04-solution-strategy/nav.adoc
+  - modules/05-building-blocks/nav.adoc
+  - modules/06-runtime-view/nav.adoc
+  - modules/07-deployment-view/nav.adoc
+  - modules/08-concepts/nav.adoc
+  - modules/09-architectural-decisions/nav.adoc
+  - modules/10-quality-requirements/nav.adoc
+  - modules/11-technical-risks/nav.adoc
+  - modules/12-glossary/nav.adoc
+

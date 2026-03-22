@@ -1,0 +1,18 @@
+site:
+  title: The beste Template for arc42
+  start_page: vanilla:01-introduction:index.adoc
+
+content:
+  sources:
+    - url: .
+      branches: HEAD
+      start_paths: [ ./ ]
+
+ui:
+  bundle:
+    url: https://github.com/obfischer/antora-ui-obfischer/releases/download/2025-04-12/ui-bundle.zip
+    snapshot: true
+
+asciidoc:
+  extensions:
+    - 'asciidoctor-kroki'
