@@ -1,33 +1,33 @@
-= The best Template for Arc42
+= The best Template for arc42
 
-The best Template for Arc42 is an Asciidoc and Antora-based template for architecture documentation according to Arc42.
+The best Template for arc42 is an Asciidoc and Antora-based template for architecture documentation according to arc42.
 
-== The Aim auf The best Template for Arc42
+== The Aim auf The best Template for arc42
 
-The aim of this template is to enable users to document their systems using Arc42, Antora and Asciidoctor.
+The aim of this template is to enable users to document their systems using arc42, Antora and Asciidoctor.
 
-== Advantages of using The best Template for Arc42
+== Advantages of using The best Template for arc42
 
 * Purely text-based (documentation as code) document format
 * Very easy to evaluate using LLM
-* Fixed structure according to Arc42, which allows immediate access without having to develop your own structure
+* Fixed structure according to arc42, which allows immediate access without having to develop your own structure
 * Versionable via any version control system, for example with Git, like any other artefact
 * Creation of a documentation portal using Antora, into which different versions of the architecture documentation can be integrated
 * Aggregation and centralised provision of the software architecture documentation for all systems using Antora via a central architecture documentation portal
 
-== About Arc42
+== About arc42
 
-Arc42 is a template for describing and documenting software architectures, developed and maintained by Gernot Starke and Peter Hruschka.
-Arc42 is primarily used for communication about a software system between all parties involved and acts as a second brain, as all essential information is documented via Arc42.
+arc42 is a template for describing and documenting software architectures, developed and maintained by Gernot Starke and Peter Hruschka.
+arc42 is primarily used for communication about a software system between all parties involved and acts as a second brain, as all essential information is documented via arc42.
 
-== Distinction from the Arc42 project
+== Distinction from the arc42 project
 
-This project only provides a template for architecture documentation according to Arc42.
-Arc42 was developed by Gernot Starke and Peter Hruschka.
+This project only provides a template for architecture documentation according to arc42.
+arc42 was developed by Gernot Starke and Peter Hruschka.
 
 == Further Resources
 
-* https://antora.org/[Homepage of Antora, the static site generator used by The best Template for Arc42]
-* https://arc42.org/[Homepage of the Arc42 projekt in English]
-* https://arc42.de/[Homepage of the Arc42 projekt in German]
+* https://antora.org/[Homepage of Antora, the static site generator used by The best Template for arc42]
+* https://arc42.org/[Homepage of the arc42 projekt in English]
+* https://arc42.de/[Homepage of the arc42 projekt in German]
 * https://asciidoctor.org/[Homepage of Asciidoctor^]
